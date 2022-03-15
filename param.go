@@ -1,0 +1,1 @@
+albumId, _ := strconv.Atoi(c.Param("album_id"))
